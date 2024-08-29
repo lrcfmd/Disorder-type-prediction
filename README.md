@@ -1,6 +1,6 @@
 # Disorder-type-prediction
 
-This repository contains the models to predict the disorder type of the compound (O-ordered, S-substitutional disorder, V-vacancies, M-mixed). This is classification done with the latest disorder script on ICSD (in which there is MC calculation of entropy and only six orbit disorder types: O, S, V, SV, VP, SVP. See corresponding paper draft for details)
+This repository contains the models to predict the disorder type of a compound (O-ordered, S-substitutional disorder, V-vacancies, M-mixed). This is classification done with the latest disorder script on ICSD (in which there is MC calculation of entropy and only six orbit disorder types: O, S, V, SV, VP, SVP. See corresponding paper draft for details)
 
 Trained models are availible on the external hard drive
 
