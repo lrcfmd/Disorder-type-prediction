@@ -16,3 +16,5 @@ Balanced accuracy = 0.78, f1-score (macro) = 0.78, mcc = 0.75
 
 **Ensemble-10CrabNet + Mat2Vec**
 Balanced accuracy = 0.80, f1-score (macro) = 0.81, mcc = 0.79
+
+Confusion matrixes are in images folder
