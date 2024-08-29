@@ -1,0 +1,20 @@
+{
+    "train_path": "data/crabnet_data_type/train.csv",
+    "val_path": "data/crabnet_data_type/val.csv",
+    "test_path": "data/crabnet_data_type/test.csv",
+    "out_dims": 4,
+    "d_model": 512,
+    "N": 3,
+    "heads": 4,
+    "classification": true,
+    "batch_size": 2048,
+    "fudge": 0,
+    "random_seed": 27,
+    "swa_epoch_start": 0.05,
+    "swa_lrs": 0.01,
+    "base_lr": 0.0001,
+    "max_lr": 0.007,
+    "schedule": "CyclicLR",
+    "patience": 30,
+    "num_workers": 1
+}
